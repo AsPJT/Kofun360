@@ -2,7 +2,7 @@
 - Ⱄ 360-degree photo of the tomb
 - Ⱄ 古墳の360度写真
 
-![Kofun360](https://raw.githubusercontent.com/AsPJT/Kofun360/main/image.jpg)
+![Kofun360](https://raw.githubusercontent.com/AsPJT/Kofun360/main/photos/resize/image1.jpg)
 
 # 写真の投稿を募集中！（ Photo submissions are welcome! ）
 
@@ -28,6 +28,10 @@
   -  連番は始まりが「00」です。同じ時刻に撮った写真を区別する際に使用します。
   -  写真を撮った時刻にしてください。
   - （例：「20220612_144359_00.jpg」）
+
+### パノラマ写真（360度ではない広角な写真）を投稿してもよい？
+
+- パノラマ写真を投稿しても構いません。
 
 # License CC0 （著作権フリー）
 
